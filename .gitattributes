@@ -1,3 +1,4 @@
+*.png linguist-generated=true
 *.png linguist-detectable=true
 *.psd linguist-detectable=true
 *.png linguist-language=Logo
